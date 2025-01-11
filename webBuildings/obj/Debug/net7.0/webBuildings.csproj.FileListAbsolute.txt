@@ -62,3 +62,15 @@ C:\Users\Matriculas\integrador3\webBuildings\obj\Debug\net7.0\refint\webBuilding
 C:\Users\Matriculas\integrador3\webBuildings\obj\Debug\net7.0\webBuildings.pdb
 C:\Users\Matriculas\integrador3\webBuildings\obj\Debug\net7.0\webBuildings.genruntimeconfig.cache
 C:\Users\Matriculas\integrador3\webBuildings\obj\Debug\net7.0\ref\webBuildings.dll
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.csproj.AssemblyReference.cache
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.AssemblyInfoInputs.cache
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.AssemblyInfo.cs
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.csproj.CoreCompileInputs.cache
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.RazorAssemblyInfo.cache
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.RazorAssemblyInfo.cs
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.sourcelink.json
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.dll
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\refint\webBuildings.dll
+C:\Users\Catabh\Desktop\integrador\integrador\webBuildings\obj\Debug\net7.0\webBuildings.pdb

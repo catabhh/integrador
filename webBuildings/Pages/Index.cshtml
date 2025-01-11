@@ -1,10 +1,25 @@
 ﻿@page
-@model IndexModel
+@model webBuildings.Pages.IndexModel
 @{
-    ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1>Lista de Obras</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Porcentaje Avance</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var building in Model)
+        {
+            <tr>
+                <td>@building.Id</td>
+                <td>@building.Name</td>
+                <td>@building.progress%</td>
+            </tr>
+        }
+    </tbody>
+</table>
